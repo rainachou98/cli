@@ -20,7 +20,7 @@ EXERCICE 1 : **La famille**
  14. cd ~
  15. rm -r cli_tmp
 
- #EXERCICE 2: **Mon Conteneur**
+ EXERCICE 2: **Mon Conteneur**
 1. pwd
 2. ls
 3. mkdir conteneur
@@ -33,7 +33,7 @@ EXERCICE 1 : **La famille**
 10. ls -alt
 
 
-#EXERCICE 3: **Le journal**
+EXERCICE 3: **Le journal**
 1. pwd 
 2. ls
 3. mkdir actualites politiques 
@@ -42,7 +42,7 @@ EXERCICE 1 : **La famille**
 6. mkdir  actualites/buzz
 
 
-  #EXERCICE 4 **Le Dessin**
+ EXERCICE 4 **Le Dessin**
 1. pwd
 2. touch .configuration_caché
 3. LS
@@ -55,7 +55,7 @@ EXERCICE 1 : **La famille**
 9. cd ~
 10. cd creation/
 
- #EXERCICE 5 **Ma classe**
+ EXERCICE 5 **Ma classe**
 1. mkdir ma_classe
 2. echo "eve moctar esaie rachide" >> mes_camarades.txt
 3. cat mes_camarades.txt 
@@ -64,14 +64,14 @@ EXERCICE 1 : **La famille**
 6. mr .surveillant_cahé 
 7. rm -r ma_classe/
 
-#EXERCICE 6 **L'aquarium**
+ EXERCICE 6 **L'aquarium**
 1. brew install asciiquarium
 2. asciiquarium
 
-#EXERCICE 7 **Le Train**
+ EXERCICE 7 **Le Train**
 1. brew install sl 
 2. sl 
 
-#EXERCICE 8 **Le matrix**
+ EXERCICE 8 **Le matrix**
 1. brew install cmatrix
 2. cmatrix
