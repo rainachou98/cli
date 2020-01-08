@@ -1,4 +1,4 @@
-#EXERCICE 1 : **La famille**
+EXERCICE 1 : **La famille**
  1. mkdir cli_tmp
  2. touch cli_tmp/ je_suis_dans_cli_tmp.txt
  3. cd cli_tmp/
