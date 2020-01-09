@@ -28,7 +28,7 @@ EXERCICE 1 : **La famille**
 5. touch conteneur/voitures/mes_voitures.txt
 6. echo "benz toyota honda" >> conteneur/voitures/mes_voitures.txt
 7. cd conteneur/ustensiles
-8. echo "couteau tasse cuilleur" >> conteneur/ustensiles/mes_cuisines.txt
+8. echo "couteau tasse cuilleur" >> conteneur/ustensiles/cuisines.txt
 9.  cd ..
 10. ls -alt
 
