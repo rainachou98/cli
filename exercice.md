@@ -49,6 +49,7 @@ EXERCICE 3: **Le journal**
 4. mkdir -p creation/crayons
 5. touch creations/crayons/couleurs.txt
 6. cp creations/crayons/couleurs.txt
+
 7.touch creation/gomme.txt
 8. mv creation/gomme.txt  creations/crayons/
 9. cd ~
