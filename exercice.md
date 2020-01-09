@@ -46,7 +46,7 @@ EXERCICE 3: **Le journal**
 1. pwd
 2. touch .configuration_caché
 3. LS
-4. mkdir creation crayons
+4. mkdir -p creation/crayons
 5. cd crayons/
 6. cp couleurs.txt colors.txt
 7. cd ..
