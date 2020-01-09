@@ -36,9 +36,9 @@ EXERCICE 1 : **La famille**
 EXERCICE 3: **Le journal**
 1. pwd 
 2. ls
-3. mkdir actualites politiques 
-4. mkdir politiques/elections
-5. echo "tanja issoufou kader" >> politiques/elections/candidats.txt 
+3. mkdir -p actualites/politiques 
+4. mkdir actualites/politiques/elections
+5. echo "tanja issoufou kader" >> actualites/politiques/elections/candidats.txt 
 6. mkdir  actualites/buzz
 
 
@@ -47,11 +47,10 @@ EXERCICE 3: **Le journal**
 2. touch .configuration_caché
 3. LS
 4. mkdir -p creation/crayons
-5. cd crayons/
-6. cp couleurs.txt colors.txt
-7. cd ..
- touch creation/gomme.txt
-8. mv creation/gomme.txt  crayons/
+5. touch creations/crayons/couleurs.txt
+6. cp creations/crayons/couleurs.txt creations/crayons/colors.txt
+7.touch creation/gomme.txt
+8. mv creation/gomme.txt  creations/crayons/
 9. cd ~
 10. cd creation/
 
