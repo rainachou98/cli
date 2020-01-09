@@ -26,9 +26,9 @@ EXERCICE 1 : **La famille**
 3. mkdir conteneur
 4. mkdir conteneur/voitures conteneur/ustensiles conteneur/electronique
 5. touch conteneur/voitures/mes_voitures.txt
-6. cd conteneur/ustensiles
-7. echo "couteau tasse casserole" >> cuisine.txt
-8. cat cuisine.txt 
+6. echo "benz toyota honda" >> conteneur/voitures/mes_voitures.txt
+7. cd conteneur/ustensiles
+8. echo "couteau tasse cuilleur" >> 
 9.  cd ..
 10. ls -alt
 
